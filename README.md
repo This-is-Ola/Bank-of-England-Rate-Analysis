@@ -10,9 +10,9 @@
   How volatile can each rate get within a set period?**
 
 # Key Findings 
-*1976 Sterling Crisis and IMF Loan.
-1990–1993 Black Wednesday and ERM exit.
-2008–2009 Global Financial Crisis.
+*1976 Sterling Crisis and IMF Loan
+1990-1993 Black Wednesday and ERM exit.
+2008-2009 Global Financial Crisis.
 2016 Brexit referendum.
 COVID-19 pandemic*
 
