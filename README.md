@@ -18,6 +18,9 @@ COVID-19 pandemic*
 
 **The 1976 Sterling Crisis and IMF Loan (1976–1982)- The British Economy went into heavy debt,borrowed £2.3bn from IMF, pounds crashed in 1976 and the effect lingered for 7 years between 1976-1982, this series of event including Falklands War forced the Bank to intervene repeatedly to defend sterling set the Bank rate high and volatile to external influence((IMF policy- Spending Cut, high interest, Zero money printing). The Bank was forced to keep rates high and react constantly, from huge panic drop in November 1977 Rate was 5.00 to huge Rate rise of 17.00 in November 1979 and many small steering moves in 1982 (36 changes)**
 
+<img width="767" height="628" alt="image" src="https://github.com/user-attachments/assets/21ad45e3-6db8-41aa-8db5-e5b57003580c" />
+
+
 # 1990-1993 
 **The Black Wednesday (Fall from 13.88% to 5.75%)- The UK joined the ERM in 1990(at the time the rate was completely stable) and had to keep rates high to defend the pound, even during a recession. On Black Wednesday (16 Sept 1992), the pound collapsed and Britain was forced out of the ERM. Free from the peg, the Bank cut rates sharply from 13.88% to 5.75%. This was the second major regime change after the 7 Years crisis.**
 
