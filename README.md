@@ -39,4 +39,8 @@ COVID-19 pandemic*
 **Prepare for economic shocks: Develop contingency scenarios for extreme events(1979, 2008 and 2020 ) such as wars, pandemics, political instability and financial crises, using historical rate movements to assess potential impacts on Bank Rate.**
 **Build predictive models: Combine historical Bank Rate data with economic and banking indicators to improve forecasting.**
 
+<img width="845" height="723" alt="image" src="https://github.com/user-attachments/assets/cf10af56-fe50-488f-921e-f918035648f6" />
+<img width="845" height="722" alt="image" src="https://github.com/user-attachments/assets/4de21c86-416c-4a3b-aa33-32a2ccd1eb6f" />
+<img width="849" height="722" alt="image" src="https://github.com/user-attachments/assets/ab603c9d-698d-4e34-8f2c-2c0301f0e6d2" />
+
 
